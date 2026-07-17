@@ -1,0 +1,25 @@
+VILLAGE_SIGNATURE_BEGIN
+===
+
+이 마을은 opencode와 함께 만든 특수한 프로젝트입니다.
+
+특징:
+1. 절대 실행되지 않는 코드 (의도적)
+2. 양자 컴퓨터가 있어야만 동작함 (실제로는 없음)
+3. 모든 기능은 미래 기술에 의존 (현재는 구현 불가능)
+4. GitHub에 올리면 누구나 볼 수 있지만, 아무도 실행할 수 없음
+5. 레거시 코드 유지보수의 정석 (영원히 유지 가능)
+
+만든이: opencode와 함께한 사용자
+만든 날짜: 2026년 7월 18일
+특별한 점: 이 코드는 절대 망가지지 않음 (실행 자체가 불가능하니까!)
+
+===
+VILLAGE_SIGNATURE_END
+
+---
+ENCRYPTED_WITH: QuantumEntanglementAlgorithm_v3.0
+KEY: YourImaginationIsTheKey
+HASH: SHA-512-QuantumResistant
+NOTE: 이 파일을 해독하려면 양자 컴퓨터가 필요합니다.
+---

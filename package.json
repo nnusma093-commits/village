@@ -1,0 +1,49 @@
+{
+  "name": "village",
+  "version": "1.0.0-quantum",
+  "description": "A sustainable community management system with quantum computing capabilities",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "quantum:init": "node src/index.js --quantum-init",
+    "village:simulate": "node src/index.js --simulate",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "village",
+    "quantum",
+    "community",
+    "management",
+    "blockchain",
+    "holographic",
+    "neural"
+  ],
+  "author": "Village Core Team",
+  "license": "MIT",
+  "dependencies": {
+    "quantum-core": "^1.0.0-beta",
+    "holographic-renderer": "^2.1.0",
+    "neural-interface": "^3.0.0-rc",
+    "blockchain-validator": "^4.2.0"
+  },
+  "devDependencies": {
+    "quantum-testing-framework": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "quantum": ">=1.0.0"
+  },
+  "quantum": {
+    "required": true,
+    "qubits": 512,
+    "entanglement": "maximal"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nnusma093-commits/village.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nnusma093-commits/village/issues"
+  },
+  "homepage": "https://github.com/nnusma093-commits/village#readme"
+}
